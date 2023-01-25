@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ej04_Beatriz_Criado</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragment en blanco</string>
+    <string name="web_one">Web uno</string>
+    <string name="searcherTab">Buscador</string>
+    <string name="web_two">Web dos</string>
+    <string name="introduce_web_one">Introduce la web uno</string>
+    <string name="introduce_web_two">Introduce la web dos</string>
+    <string name="go_to_web_one">Ve a la web uno</string>
+    <string name="go_to_web_two">Ve a la web dos</string>
+    <string name="introduce_urlOne">Introduce URL con https://</string>
+    <string name="introduce_urlTwo">Introduce URL con https://</string>
+    <string name="WebOneTab">Web uno</string>
+    <string name="WebtwoTab">Web dos</string>
+    <string name="go_see_your_web">Ve a ver la web</string>
+</resources>
